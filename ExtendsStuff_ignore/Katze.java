@@ -1,4 +1,4 @@
-package ExtendsStuff;
+package ExtendsStuff_ignore;
 public class Katze extends Tier {
 
     public Katze(int alter, int groesse, int gewicht, String geschlecht, String name) {

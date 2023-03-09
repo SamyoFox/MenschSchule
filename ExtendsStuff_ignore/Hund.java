@@ -1,4 +1,4 @@
-package ExtendsStuff;
+package ExtendsStuff_ignore;
 
 public class Hund extends Tier {
 
