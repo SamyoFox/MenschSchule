@@ -1,6 +1,6 @@
 package MenschExtends;
 
-public class Raeuber extends Mensch{
+public class Raeuber extends Zivilist{
 
     public Raeuber(int groesse, int gewicht, String name) {
         super(groesse, gewicht, name);
